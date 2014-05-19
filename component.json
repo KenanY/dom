@@ -28,7 +28,7 @@
     "component/matches-selector": "0.1.1",
     "yields/traverse": "0.1.1",
     "component/trim": "0.0.1",
-    "yields/isArray": "1.0.0",
+    "KenanY/is-array": "1.0.1",
     "component/to-function": "2.0.0",
     "matthewp/keys": "0.0.3",
     "matthewp/text": "0.0.2"
